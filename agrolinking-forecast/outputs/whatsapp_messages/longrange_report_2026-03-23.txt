@@ -1,0 +1,52 @@
+📊 AGROLINKING LONG-RANGE COMMODITY OUTLOOK
+Generated: Mon 23 March 2026
+=================================================================
+
+📅 1-MONTH OUTLOOK — April 2026
+Commodity        Price Range (₦/tonne)          Trend
+-----------------------------------------------------------------
+Hibiscus         ₦1,462,049 – ₦1,711,667   📉 Bearish
+Soybeans         ₦674,189 – ₦912,139   📈 Bullish
+Ginger           ₦6,140,395 – ₦6,414,478   📉 Bearish
+Cocoa            ₦4,888,220 – ₦5,999,260   📉 Bearish
+Cashew Nuts      ₦1,131,866 – ₦1,218,891   📉 Bearish
+Sorghum          ₦179,587 – ₦185,417   📉 Bearish
+Sesame           ₦804,880 – ₦825,787   📉 Bearish
+Beans (red)      ₦1,080,444 – ₦1,319,872   📈 Bullish
+Beans (white)    ₦864,816 – ₦1,074,457   📉 Bearish
+🔵 Confidence: High
+
+=================================================================
+
+📅 3-MONTH OUTLOOK — Q2 2026
+Commodity        Price Range (₦/tonne)          Trend
+-----------------------------------------------------------------
+Hibiscus         ₦2,158,329 – ₦2,447,437   📉 Bearish
+Soybeans         ₦688,834 – ₦1,033,251   📈 Bullish
+Ginger           ₦10,720,636 – ₦11,374,142   📈 Bullish
+Cocoa            ₦3,642,419 – ₦4,100,352   📉 Bearish
+Cashew Nuts      ₦1,931,330 – ₦2,129,428   📈 Bullish
+Sorghum          ₦179,070 – ₦186,222   📉 Bearish
+Sesame           ₦808,089 – ₦828,541   📉 Bearish
+Beans (red)      ₦928,568 – ₦1,197,068   📉 Bearish
+Beans (white)    ₦807,838 – ₦1,021,579   📉 Bearish
+🟡 Confidence: Medium
+
+=================================================================
+
+📅 6-MONTH OUTLOOK — H2 2026
+Commodity        Price Range (₦/tonne)          Trend
+-----------------------------------------------------------------
+Hibiscus         ₦2,027,826 – ₦2,319,394   📉 Bearish
+Soybeans         ₦760,695 – ₦1,267,825   📈 Bullish
+Ginger           ₦11,116,308 – ₦11,842,466   📈 Bullish
+Cocoa            ₦3,645,850 – ₦4,105,239   📉 Bearish
+Cashew Nuts      ₦2,046,548 – ₦2,217,714   📈 Bullish
+Sorghum          ₦179,731 – ₦186,239   📉 Bearish
+Sesame           ₦809,259 – ₦831,230   📉 Bearish
+Beans (red)      ₦885,624 – ₦1,152,232   📉 Bearish
+Beans (white)    ₦764,833 – ₦970,402   📉 Bearish
+🔴 Confidence: Low — directional guidance only
+
+=================================================================
+🌾 Agrolinking Research & Data | Powered by Agrolinking Intelligence System

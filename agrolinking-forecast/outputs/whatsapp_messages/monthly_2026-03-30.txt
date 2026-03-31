@@ -1,0 +1,53 @@
+----------------------------------------------------
+📅 1-MONTH OUTLOOK — April 2026
+Commodity          Price Range (₦/tonne)        Trend
+------------------------------------------------------------
+Hibiscus           ₦2.60M – ₦2.71M              📈 Bullish
+Soybeans           ₦708K – ₦712K                📈 Bullish
+Ginger             ₦9.58M – ₦9.92M              ➡️ Stable
+Cocoa              ₦5.26M – ₦6.37M              📈 Bullish
+Cashew Nuts        ₦1.71M – ₦2.07M              📈 Bullish
+Sorghum            ₦283K – ₦283K                ➡️ Stable
+Sesame             ₦1.29M – ₦1.29M              ➡️ Stable
+Beans (red)        ₦1.25M – ₦1.52M              ➡️ Stable
+Beans (white)      ₦1.07M – ₦1.30M              ➡️ Stable
+Maize (white)      ₦321K – ₦391K                ➡️ Stable
+Maize (yellow)     ₦330K – ₦402K                ➡️ Stable
+🔵 Confidence: High
+
+============================================================
+📅 3-MONTH OUTLOOK — Q2 2026
+Commodity          Price Range (₦/tonne)        Trend
+------------------------------------------------------------
+Hibiscus           ₦2.88M – ₦3.05M              📈 Bullish
+Soybeans           ₦809K – ₦817K                📈 Bullish
+Ginger             ₦9.60M – ₦10.13M             ➡️ Stable
+Cocoa              ₦5.60M – ₦7.37M              📈 Bullish
+Cashew Nuts        ₦1.82M – ₦2.40M              📈 Bullish
+Sorghum            ₦301K – ₦301K                📈 Bullish
+Sesame             ₦1.39M – ₦1.39M              📈 Bullish
+Beans (red)        ₦1.22M – ₦1.66M              📈 Bullish
+Beans (white)      ₦1.04M – ₦1.42M              📈 Bullish
+Maize (white)      ₦314K – ₦426K                📈 Bullish
+Maize (yellow)     ₦323K – ₦438K                📈 Bullish
+🟡 Confidence: Medium
+
+============================================================
+📅 6-MONTH OUTLOOK — H2 2026
+Commodity          Price Range (₦/tonne)        Trend
+------------------------------------------------------------
+Hibiscus           ₦3.27M – ₦3.50M              📈 Bullish
+Soybeans           ₦962K – ₦973K                📈 Bullish
+Ginger             ₦9.65M – ₦10.37M             ➡️ Stable
+Cocoa              ₦6.30M – ₦8.51M              📈 Bullish
+Cashew Nuts        ₦2.05M – ₦2.77M              📈 Bullish
+Sorghum            ₦328K – ₦328K                📈 Bullish
+Sesame             ₦1.55M – ₦1.55M              📈 Bullish
+Beans (red)        ₦1.25M – ₦1.79M              📈 Bullish
+Beans (white)      ₦1.07M – ₦1.53M              📈 Bullish
+Maize (white)      ₦322K – ₦461K                📈 Bullish
+Maize (yellow)     ₦331K – ₦474K                📈 Bullish
+🔴 Confidence: Low — directional guidance only
+
+============================================================
+🌱 Agrolinking Research & Data | Powered by Agrolinking Intelligence System

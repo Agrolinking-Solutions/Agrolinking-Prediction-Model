@@ -1,0 +1,233 @@
+{
+  "Beans (red)": {
+    "arima": {
+      "daily": 808988.78,
+      "weekly": 824697.3,
+      "biweekly": 848260.0800000001
+    },
+    "prophet": {
+      "daily": 808988.78,
+      "weekly": 824697.3,
+      "biweekly": 848260.0800000001,
+      "daily_lower": 787886.3110764197,
+      "daily_upper": 1119988.4538830896,
+      "weekly_lower": 788313.8571380784,
+      "weekly_upper": 1118357.4276695978
+    },
+    "xgboost": {
+      "daily": 808988.78,
+      "weekly": 824697.3,
+      "biweekly": 848260.0800000001
+    }
+  },
+  "Beans (white)": {
+    "arima": {
+      "daily": 707932.5616666666,
+      "weekly": 721678.825,
+      "biweekly": 742298.22
+    },
+    "prophet": {
+      "daily": 707932.5616666666,
+      "weekly": 721678.825,
+      "biweekly": 742298.22,
+      "daily_lower": 600556.7962242248,
+      "daily_upper": 1354672.3871821787,
+      "weekly_lower": 632279.5197152807,
+      "weekly_upper": 1345654.0811056308
+    },
+    "xgboost": {
+      "daily": 707932.5616666666,
+      "weekly": 721678.825,
+      "biweekly": 742298.22
+    }
+  },
+  "Cashew Nuts": {
+    "arima": {
+      "daily": 1805203.0277777778,
+      "weekly": 1805203.0277777778,
+      "biweekly": 1805203.0277777778
+    },
+    "prophet": {
+      "daily": 1840404.597329521,
+      "weekly": 1840404.597329521,
+      "biweekly": 1835496.6922084377,
+      "daily_lower": 1703359.4330789482,
+      "daily_upper": 1987027.5367178502,
+      "weekly_lower": 1681776.393110112,
+      "weekly_upper": 1972384.7146624047
+    },
+    "xgboost": {
+      "daily": 1854000.0,
+      "weekly": 1899000.0,
+      "biweekly": 1944000.0000000002
+    }
+  },
+  "Cocoa": {
+    "arima": {
+      "daily": 5609833.333333333,
+      "weekly": 5465249.999999999,
+      "biweekly": 5320666.666666667
+    },
+    "prophet": {
+      "daily": 5609833.333333333,
+      "weekly": 5573192.854179716,
+      "biweekly": 5804319.622343141,
+      "daily_lower": 5139778.236978586,
+      "daily_upper": 5988600.934426444,
+      "weekly_lower": 5137468.341093966,
+      "weekly_upper": 6010395.610344862
+    },
+    "xgboost": {
+      "daily": 5609833.333333333,
+      "weekly": 5465249.999999999,
+      "biweekly": 5320666.666666667
+    }
+  },
+  "Ginger": {
+    "arima": {
+      "daily": 10129637.305555556,
+      "weekly": 10129637.305555556,
+      "biweekly": 10129637.305555556
+    },
+    "prophet": {
+      "daily": 9631223.254871063,
+      "weekly": 9631223.254871063,
+      "biweekly": 9609492.475701671,
+      "daily_lower": 9576819.472472612,
+      "daily_upper": 9685842.426334297,
+      "weekly_lower": 9573524.292838706,
+      "weekly_upper": 9692558.47118668
+    },
+    "xgboost": {
+      "daily": 10246500.0,
+      "weekly": 9953800.0,
+      "biweekly": 9531079.0
+    }
+  },
+  "Hibiscus": {
+    "arima": {
+      "daily": 2435250.0,
+      "weekly": 2346000.0,
+      "biweekly": 2271846.902777778
+    },
+    "prophet": {
+      "daily": 2454962.5,
+      "weekly": 2514261.1111111115,
+      "biweekly": 2577648.020010227,
+      "daily_lower": 2605336.8199239643,
+      "daily_upper": 2640849.3414715063,
+      "weekly_lower": 2604838.5882973247,
+      "weekly_upper": 2640446.205987629
+    },
+    "xgboost": {
+      "daily": 2435250.0,
+      "weekly": 2346000.0,
+      "biweekly": 2336037.75
+    }
+  },
+  "Maize (white)": {
+    "arima": {
+      "daily": 309550.0,
+      "weekly": 314080.0,
+      "biweekly": 320120.0
+    },
+    "prophet": {
+      "daily": 309550.0,
+      "weekly": 314080.0,
+      "biweekly": 320120.0,
+      "daily_lower": 219128.63750010214,
+      "daily_upper": 279877.33384644456,
+      "weekly_lower": 218391.48927406166,
+      "weekly_upper": 278680.98742195475
+    },
+    "xgboost": {
+      "daily": 309550.0,
+      "weekly": 314080.0,
+      "biweekly": 320120.0
+    }
+  },
+  "Maize (yellow)": {
+    "arima": {
+      "daily": 317750.0,
+      "weekly": 322400.0,
+      "biweekly": 328600.0
+    },
+    "prophet": {
+      "daily": 317750.0,
+      "weekly": 322400.0,
+      "biweekly": 328600.0,
+      "daily_lower": 231986.53542905557,
+      "daily_upper": 309864.06184805627,
+      "weekly_lower": 233066.70912452516,
+      "weekly_upper": 308756.2575288859
+    },
+    "xgboost": {
+      "daily": 317750.0,
+      "weekly": 322400.0,
+      "biweekly": 328600.0
+    }
+  },
+  "Sesame": {
+    "arima": {
+      "daily": 1241600.0,
+      "weekly": 1209600.0,
+      "biweekly": 1177600.0
+    },
+    "prophet": {
+      "daily": 1259051.05721749,
+      "weekly": 1259051.05721749,
+      "biweekly": 1260295.049745809,
+      "daily_lower": 1259051.0569686713,
+      "daily_upper": 1259051.0574608506,
+      "weekly_lower": 1259051.0569544828,
+      "weekly_upper": 1259051.0574754728
+    },
+    "xgboost": {
+      "daily": 1241600.0,
+      "weekly": 1211036.25,
+      "biweekly": 1177600.0
+    }
+  },
+  "Sorghum": {
+    "arima": {
+      "daily": 274354.1666666666,
+      "weekly": 267319.44444444444,
+      "biweekly": 260284.72222222222
+    },
+    "prophet": {
+      "daily": 280247.9609819441,
+      "weekly": 280247.9609819441,
+      "biweekly": 279608.7956005762,
+      "daily_lower": 280168.00663135696,
+      "daily_upper": 280326.0523576928,
+      "weekly_lower": 280163.17219550535,
+      "weekly_upper": 280333.41754668206
+    },
+    "xgboost": {
+      "daily": 274354.1666666666,
+      "weekly": 267319.44444444444,
+      "biweekly": 260284.72222222222
+    }
+  },
+  "Soybeans": {
+    "arima": {
+      "daily": 697538.8888888889,
+      "weekly": 698474.3055555555,
+      "biweekly": 698474.3055555555
+    },
+    "prophet": {
+      "daily": 671463.0697013035,
+      "weekly": 671463.0697013035,
+      "biweekly": 671825.325767921,
+      "daily_lower": 670466.7338492727,
+      "daily_upper": 672464.6799190944,
+      "weekly_lower": 670432.1227661143,
+      "weekly_upper": 672422.4394203527
+    },
+    "xgboost": {
+      "daily": 697538.8888888889,
+      "weekly": 691957.9375,
+      "biweekly": 682498.3125
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "Cashew Nuts": {
+    "daily": 1809429,
+    "weekly": 1822024,
+    "model": "ensemble",
+    "reference": 80131.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(search:2)"
+    ],
+    "all_models": {
+      "arima": 1728056,
+      "prophet": 1805641,
+      "xgboost": 1813217
+    }
+  },
+  "Cocoa": {
+    "daily": 5692721,
+    "weekly": 5693878,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 6722222,
+      "prophet": 5677586,
+      "xgboost": 5707857
+    }
+  },
+  "Ginger": {
+    "daily": 9659280,
+    "weekly": 9608956,
+    "model": "ensemble",
+    "reference": 196498.5,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:10)"
+    ],
+    "all_models": {
+      "arima": 9558333,
+      "prophet": 9911247,
+      "xgboost": 9407312
+    }
+  },
+  "Hibiscus": {
+    "daily": 2328629,
+    "weekly": 2337240,
+    "model": "ensemble",
+    "reference": 121190.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:4)"
+    ],
+    "all_models": {
+      "arima": 1865278,
+      "prophet": 2367738,
+      "xgboost": 2289520
+    }
+  },
+  "Sesame": {
+    "daily": 1292871,
+    "weekly": 1280114,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 1255833,
+      "prophet": 1294312,
+      "xgboost": 1291430
+    }
+  },
+  "Sorghum": {
+    "daily": 290779,
+    "weekly": 282354,
+    "model": "ensemble",
+    "reference": 872437.5,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:4)"
+    ],
+    "all_models": {
+      "arima": 289028,
+      "prophet": 296867,
+      "xgboost": 284691
+    }
+  },
+  "Soybeans": {
+    "daily": 672458,
+    "weekly": 674532,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 674167,
+      "prophet": 666176,
+      "xgboost": 678740
+    }
+  }
+}

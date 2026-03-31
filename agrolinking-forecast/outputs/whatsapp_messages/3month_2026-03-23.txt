@@ -1,0 +1,19 @@
+📅 3-MONTH FORECAST — Q2 2026
+(April – June 2026)
+Price ranges reflect 80% confidence interval
+
+Commodity        Price Range (₦/tonne)          Trend
+-----------------------------------------------------------------
+Hibiscus         ₦2,158,329 – ₦2,447,437   📉 Bearish
+Soybeans         ₦688,834 – ₦1,033,251   📈 Bullish
+Ginger           ₦10,720,636 – ₦11,374,142   📈 Bullish
+Cocoa            ₦3,642,419 – ₦4,100,352   📉 Bearish
+Cashew Nuts      ₦1,931,330 – ₦2,129,428   📈 Bullish
+Sorghum          ₦179,070 – ₦186,222   📉 Bearish
+Sesame           ₦808,089 – ₦828,541   📉 Bearish
+Beans (red)      ₦928,568 – ₦1,197,068   📉 Bearish
+Beans (white)    ₦807,838 – ₦1,021,579   📉 Bearish
+
+🟡 Confidence: Medium
+📊 3-Month Price Forecast | Agrolinking Research & Data
+🌾 Powered by Agrolinking Intelligence System

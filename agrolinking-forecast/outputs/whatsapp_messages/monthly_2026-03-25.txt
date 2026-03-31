@@ -1,0 +1,18 @@
+📅 MONTHLY FORECAST — April 2026
+Price ranges reflect 80% confidence interval
+
+Commodity        Price Range (₦/tonne)          Trend
+-----------------------------------------------------------------
+Hibiscus         ₦1,506,287 – ₦1,724,485   📉 Bearish
+Soybeans         ₦587,186 – ₦788,300   ➡️  Stable
+Ginger           ₦8,257,453 – ₦11,171,848   ➡️  Stable
+Cocoa            ₦4,135,069 – ₦4,862,250   📉 Bearish
+Cashew Nuts      ₦1,122,052 – ₦1,199,173   📉 Bearish
+Sorghum          ₦277,820 – ₦287,993   ➡️  Stable
+Sesame           ₦1,383,932 – ₦1,413,579   📈 Bullish
+Beans (red)      ₦1,047,529 – ₦1,417,213   ➡️  Stable
+Beans (white)    ₦815,008 – ₦1,040,831   📉 Bearish
+
+🔵 Confidence: High
+📊 Monthly Price Forecast | Agrolinking Research & Data
+🌾 Powered by Agrolinking Intelligence System

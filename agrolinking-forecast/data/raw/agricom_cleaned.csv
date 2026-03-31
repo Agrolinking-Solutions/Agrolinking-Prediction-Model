@@ -1,0 +1,835 @@
+commodity,week_start_date,price,currency,unit,source,market_type,region,fx_rate,rainfall_index,extraction_date,data_quality_score,is_validated,notes
+Cashew Nuts,2025-01-08,2100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-09,2100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-10,2100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-13,2100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-14,2100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-15,2100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-16,2000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-17,2000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-20,2000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-21,2000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-22,1850000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-23,1850000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-24,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-27,1650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-28,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-29,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-30,1450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-01-31,1380000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-03,1320000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-04,1320000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-05,1320000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-06,1320000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-07,1320000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-10,1350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-11,1350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-13,1350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-14,1850000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-17,1850000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-18,1850000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-19,1945000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-20,1945000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-21,1945000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-24,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-25,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-26,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-27,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-02-28,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2025-06-10,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-11,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-13,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-16,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-17,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-18,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-19,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-20,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-23,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-24,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-25,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-26,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-27,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-06-30,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-01,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-02,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-03,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-04,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-07,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-08,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-09,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-10,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-11,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-14,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-15,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-16,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-17,2300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-18,2350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-21,2370000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-22,2370000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-23,2370000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-07-24,2370000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2025-09-01,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-03,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-04,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-08,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-09,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-10,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-11,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-12,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-15,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-16,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-17,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-18,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-19,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-22,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-23,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-24,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-25,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-26,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-29,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-09-30,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-02,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-03,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-06,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-07,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-08,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-09,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-10,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-13,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-14,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-15,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-16,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-17,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-20,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-21,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-22,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-23,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-24,2500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2025-10-27,2100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Oct 31
+Cashew Nuts,2025-11-03,2000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 7
+Cashew Nuts,2025-11-10,2000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 14
+Cashew Nuts,2025-11-17,2000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 24
+Cashew Nuts,2025-11-24,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 28
+Cashew Nuts,2025-12-01,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 5
+Cashew Nuts,2025-12-08,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 12
+Cashew Nuts,2025-12-15,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 19
+Cashew Nuts,2025-12-22,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 23
+Cashew Nuts,2025-12-29,1900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 30
+Cashew Nuts,2026-01-05,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 9
+Cashew Nuts,2026-01-12,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 16
+Cashew Nuts,2026-01-19,1450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 26
+Cashew Nuts,2026-01-26,1350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 30
+Cashew Nuts,2026-02-02,1250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 6
+Cashew Nuts,2026-02-09,1740000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 13
+Cashew Nuts,2026-02-16,1850000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 23
+Cashew Nuts,2026-02-23,1850000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 26
+Cashew Nuts,2026-03-03,1800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cashew Nuts,2026-03-06,1800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cashew Nuts,2026-03-09,1800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cashew Nuts,2026-03-10,1800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (March 2026)
+Cashew Nuts,2026-03-11,1800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-12,0.95,True,Historical data from Instagram posts (March 2026)
+Cashew Nuts,2026-03-12,1800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026)
+Cocoa,2025-01-08,13200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-09,13200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-10,13200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-13,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-14,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-15,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-16,14100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-17,14100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-20,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-21,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-22,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-23,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-24,14500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-27,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-28,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-29,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-30,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-01-31,14400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-03,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-04,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-05,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-06,13900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-07,13900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-10,13400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-11,13400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-13,13400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-14,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-17,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-18,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-19,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-20,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-21,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-24,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-25,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-26,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-27,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-02-28,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2025-06-10,13300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-11,13300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-13,13300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-16,13300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-17,13300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-18,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-19,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-20,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-23,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-24,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-25,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-26,12600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-27,12600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-06-30,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-01,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-02,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-03,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-04,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-07,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-08,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-09,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-10,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-11,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-14,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-15,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-16,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-17,12500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-18,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-21,12000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-22,12000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-23,12000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-07-24,12000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2025-09-01,11800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-03,11500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-04,11300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-08,11300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-09,11600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-10,11600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-11,11600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-12,11600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-15,11100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-16,11100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-17,11100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-18,11100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-19,11100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-22,11100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-23,11000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-24,11000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-25,11000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-26,11200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-29,11200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-09-30,11400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-02,11400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-03,11400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-06,11400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-07,11400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-08,11400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-09,11000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-10,11000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-13,10400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-14,10400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-15,10400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-16,10400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-17,10400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-20,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-21,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-22,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-23,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-24,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2025-10-27,9500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Oct 31
+Cocoa,2025-11-03,9100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 7
+Cocoa,2025-11-10,8500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 14
+Cocoa,2025-11-17,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 24
+Cocoa,2025-11-24,11400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 28
+Cocoa,2025-12-01,10200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 5
+Cocoa,2025-12-08,10200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 12
+Cocoa,2025-12-15,10000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 19
+Cocoa,2025-12-22,10000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 23
+Cocoa,2025-12-29,10000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 30
+Cocoa,2026-01-05,9400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 9
+Cocoa,2026-01-12,8700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 16
+Cocoa,2026-01-19,8800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 26
+Cocoa,2026-01-26,8800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 30
+Cocoa,2026-02-02,8400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 6
+Cocoa,2026-02-09,8400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 13
+Cocoa,2026-02-16,6400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 23
+Cocoa,2026-02-23,6200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 26
+Cocoa,2026-03-03,6000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Cocoa,2026-03-06,6000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Cocoa,2026-03-09,6000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Cocoa,2026-03-10,6000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (March 2026)
+Cocoa,2026-03-11,5700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-12,0.95,True,Historical data from Instagram posts (March 2026)
+Cocoa,2026-03-12,5700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026)
+Ginger,2025-01-08,13200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-09,13200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-10,13200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-13,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-14,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-15,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-16,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-17,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-20,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-21,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-22,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-23,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-24,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-27,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-28,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-29,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-30,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-01-31,13700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-03,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-04,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-05,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-06,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-07,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-10,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-11,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-13,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-14,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-17,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-18,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-19,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-20,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-21,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-24,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-25,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-26,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-27,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-02-28,14300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2025-06-10,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-11,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-13,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-16,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-17,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-18,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-19,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-20,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-23,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-24,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-25,14200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-26,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-27,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-06-30,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-01,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-02,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-03,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-04,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-07,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-08,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-09,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-10,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-11,14000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-14,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-15,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-16,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-17,13800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-18,13400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-21,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-22,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-23,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-07-24,13000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2025-09-01,12600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-03,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-04,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-08,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-09,12250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-10,12250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-11,12250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-12,12250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-15,12280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-16,12280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-17,12280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-18,12280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-19,12280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-22,12280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-23,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-24,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-25,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-26,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-29,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-09-30,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-02,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-03,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-06,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-07,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-08,12400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-09,12600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-10,12600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-13,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-14,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-15,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-16,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-17,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-20,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-21,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-22,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-23,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-24,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2025-10-27,12200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Oct 31
+Ginger,2025-11-03,12000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 7
+Ginger,2025-11-10,10500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 14
+Ginger,2025-11-17,10200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 24
+Ginger,2025-11-24,10200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 28
+Ginger,2025-12-01,9000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 5
+Ginger,2025-12-08,9000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 12
+Ginger,2025-12-15,9800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 19
+Ginger,2025-12-22,9800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 23
+Ginger,2025-12-29,9800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 30
+Ginger,2026-01-05,8500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 9
+Ginger,2026-01-12,8500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 16
+Ginger,2026-01-19,7100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 26
+Ginger,2026-01-26,7100000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 30
+Ginger,2026-02-02,6700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 6
+Ginger,2026-02-09,6700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 13
+Ginger,2026-02-16,9700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 23
+Ginger,2026-02-23,9700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 26
+Ginger,2026-03-03,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Ginger,2026-03-06,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Ginger,2026-03-09,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Ginger,2026-03-10,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (March 2026)
+Ginger,2026-03-11,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-12,0.95,True,Historical data from Instagram posts (March 2026)
+Ginger,2026-03-12,9900000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026)
+Hibiscus,2025-01-08,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-09,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-10,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-13,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-14,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-15,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-16,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-17,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-20,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-21,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-22,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-23,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-24,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-27,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-28,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-29,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-30,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-01-31,1560000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-03,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-04,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-05,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-06,1525000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-07,1525000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-10,1515000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-11,1515000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-13,1515000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-14,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-17,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-18,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-19,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-20,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-21,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-24,1540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-25,1540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-26,1540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-27,1540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-02-28,1540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2025-06-10,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-11,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-13,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-16,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-17,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-18,1740000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-19,1740000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-20,1740000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-23,1740000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-24,1740000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-25,1740000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-26,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-27,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-06-30,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-01,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-02,1660000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-03,1660000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-04,1660000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-07,1660000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-08,1660000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-09,1690000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-10,1690000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-11,1690000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-14,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-15,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-16,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-17,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-18,1710000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-21,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-22,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-23,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-07-24,1700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2025-09-01,1610000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-03,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-04,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-08,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-09,1610000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-10,1610000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-11,1610000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-12,1610000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-15,1580000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-16,1580000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-17,1580000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-18,1580000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-19,1580000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-22,1580000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-23,1590000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-24,1590000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-25,1590000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-26,1570000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-29,1570000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-09-30,1570000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-02,1570000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-03,1570000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-06,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-07,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-08,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-09,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-10,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-13,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-14,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-15,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-16,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-17,1550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-20,1470000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-21,1470000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-22,1470000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-23,1450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-24,1450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2025-10-27,1450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Oct 31
+Hibiscus,2025-11-03,1400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 7
+Hibiscus,2025-11-10,1350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 14
+Hibiscus,2025-11-17,1300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 24
+Hibiscus,2025-11-24,1260000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 28
+Hibiscus,2025-12-01,1220000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 5
+Hibiscus,2025-12-08,1220000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 12
+Hibiscus,2025-12-15,1200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 19
+Hibiscus,2025-12-22,1200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 23
+Hibiscus,2025-12-29,1200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 30
+Hibiscus,2026-01-05,1200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 9
+Hibiscus,2026-01-12,1320000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 16
+Hibiscus,2026-01-19,1950000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 26
+Hibiscus,2026-01-26,2350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 30
+Hibiscus,2026-02-02,2850000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 6
+Hibiscus,2026-02-09,2820000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 13
+Hibiscus,2026-02-16,2650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 23
+Hibiscus,2026-02-23,2650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 26
+Hibiscus,2026-03-03,2650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Hibiscus,2026-03-06,2650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Hibiscus,2026-03-09,2650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Hibiscus,2026-03-10,2650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (March 2026)
+Hibiscus,2026-03-11,2550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-12,0.95,True,Historical data from Instagram posts (March 2026)
+Hibiscus,2026-03-12,2550000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026)
+Sesame,2025-06-11,2200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-13,2200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-16,2200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-17,2200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-18,2120000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-19,2120000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-20,2120000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-23,2120000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-24,2120000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-25,2120000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-26,1980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-27,1980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-06-30,1820000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-01,1820000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-02,1760000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-03,1760000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-04,1760000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-07,1760000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-08,1760000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-09,1640000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-10,1640000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-11,1640000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-14,1620000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-15,1620000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-16,1620000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-17,1620000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-18,1650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-21,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-22,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-23,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-07-24,1600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2025-09-01,1525000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-03,1355000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-04,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-08,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-09,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-10,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-11,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-12,1520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-15,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-16,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-17,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-18,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-19,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-22,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-23,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-24,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-25,1500000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-26,1420000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-29,1420000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-09-30,1420000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-02,1400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-03,1400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-06,1400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-07,1400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-08,1400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-09,1390000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-10,1350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-13,1330000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-14,1330000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-15,1330000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-16,1330000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-17,1330000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-20,1300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-21,1300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-22,1300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-23,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-24,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2025-10-27,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Oct 31
+Sesame,2025-11-03,1250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 7
+Sesame,2025-11-10,1220000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 14
+Sesame,2025-11-17,1250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 24
+Sesame,2025-11-24,1210000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 28
+Sesame,2025-12-01,1170000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 5
+Sesame,2025-12-08,1170000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 12
+Sesame,2025-12-15,1150000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 19
+Sesame,2025-12-22,1150000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 23
+Sesame,2025-12-29,1150000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 30
+Sesame,2026-01-05,1200000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 9
+Sesame,2026-01-12,1220000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 16
+Sesame,2026-01-19,1250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 26
+Sesame,2026-01-26,1250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 30
+Sesame,2026-02-02,1220000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 6
+Sesame,2026-02-09,1250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 13
+Sesame,2026-02-16,1220000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 23
+Sesame,2026-02-23,1250000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 26
+Sesame,2026-03-03,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sesame,2026-03-06,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sesame,2026-03-09,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Sesame,2026-03-10,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (March 2026)
+Sesame,2026-03-11,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-12,0.95,True,Historical data from Instagram posts (March 2026)
+Sesame,2026-03-12,1280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026)
+Sorghum,2025-06-11,520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-13,520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-16,520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-17,520000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-18,510000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-19,510000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-20,510000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-23,510000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-24,510000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-25,510000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-26,490000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-27,490000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-06-30,494000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-01,494000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-02,494000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-03,494000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-04,494000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-07,494000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-08,494000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-09,490000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-10,490000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-11,490000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-14,495000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-15,495000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-16,495000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-17,495000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-18,497000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-21,495000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-22,495000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-23,495000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-07-24,495000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2025-09-01,415000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-03,425000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-04,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-08,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-09,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-10,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-11,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-12,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-15,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-16,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-17,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-18,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-19,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-22,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-23,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-24,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-25,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-26,440000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-29,440000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-09-30,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-02,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-03,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-06,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-07,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-08,445000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-09,460000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-10,460000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-13,450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-14,450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-15,450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-16,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-17,450000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-20,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-21,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-22,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-23,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-24,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2025-10-27,430000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Oct 31
+Sorghum,2025-11-03,400000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 7
+Sorghum,2025-11-10,350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 14
+Sorghum,2025-11-17,360000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 24
+Sorghum,2025-11-24,360000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 28
+Sorghum,2025-12-01,330000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 5
+Sorghum,2025-12-08,330000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 12
+Sorghum,2025-12-15,350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 19
+Sorghum,2025-12-22,350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 23
+Sorghum,2025-12-29,350000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 30
+Sorghum,2026-01-05,330000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 9
+Sorghum,2026-01-12,340000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 16
+Sorghum,2026-01-19,320000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 26
+Sorghum,2026-01-26,300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 30
+Sorghum,2026-02-02,300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 6
+Sorghum,2026-02-09,300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 13
+Sorghum,2026-02-16,300000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 23
+Sorghum,2026-02-23,275000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 26
+Sorghum,2026-03-03,285000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Sorghum,2026-03-06,285000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Sorghum,2026-03-09,285000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Sorghum,2026-03-10,285000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (March 2026)
+Sorghum,2026-03-11,280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-12,0.95,True,Historical data from Instagram posts (March 2026)
+Sorghum,2026-03-12,280000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026)
+Soybeans,2025-01-08,1050000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-09,1050000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-10,1050000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-13,1010000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-14,1010000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-15,1010000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-16,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-17,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-20,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-21,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-22,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-23,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-24,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-27,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-28,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-29,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-30,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-01-31,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-03,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-04,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-05,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-06,940000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-07,940000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-10,840000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-11,840000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-13,840000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-14,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-17,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-18,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-19,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-20,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-21,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-24,830000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-25,830000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-26,830000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-27,830000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-02-28,830000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2025-06-10,1040000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-11,1040000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-13,1040000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-16,1040000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-17,1040000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-18,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-19,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-20,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-23,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-24,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-25,1020000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-26,1000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-27,1000000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-06-30,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-01,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-02,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-03,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-04,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-07,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-08,980000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-09,950000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-10,950000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-11,950000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-14,930000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-15,930000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-16,930000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-17,930000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-18,910000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-21,920000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-22,920000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-23,920000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-07-24,920000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2025-09-01,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-03,820000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-04,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-08,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-09,820000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-10,820000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-11,820000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-12,820000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-15,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-16,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-17,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-18,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-19,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-22,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-23,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-24,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-25,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-26,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-29,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-09-30,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-02,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-03,810000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-06,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-07,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-08,800000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-09,790000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-10,790000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-13,790000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-14,750000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-15,750000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-16,750000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-17,750000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-20,710000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-21,710000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-22,710000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-23,680000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-24,680000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2025-10-27,680000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Oct 31
+Soybeans,2025-11-03,640000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 7
+Soybeans,2025-11-10,620000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 14
+Soybeans,2025-11-17,600000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 24
+Soybeans,2025-11-24,570000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Nov 28
+Soybeans,2025-12-01,530000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 5
+Soybeans,2025-12-08,530000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 12
+Soybeans,2025-12-15,540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 19
+Soybeans,2025-12-22,540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 23
+Soybeans,2025-12-29,540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Dec 30
+Soybeans,2026-01-05,540000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 9
+Soybeans,2026-01-12,580000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 16
+Soybeans,2026-01-19,620000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 26
+Soybeans,2026-01-26,690000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Jan 30
+Soybeans,2026-02-02,730000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 6
+Soybeans,2026-02-09,700000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 13
+Soybeans,2026-02-16,650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 23
+Soybeans,2026-02-23,650000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-02-27,0.95,True,From Agricom Threads - Feb 26
+Soybeans,2026-03-03,670000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-03,0.95,True,Historical data from Instagram posts
+Soybeans,2026-03-06,670000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025)
+Soybeans,2026-03-09,670000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025)
+Soybeans,2026-03-10,670000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-10,0.95,True,Historical data from Instagram posts (March 2026)
+Soybeans,2026-03-11,680000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-12,0.95,True,Historical data from Instagram posts (March 2026)
+Soybeans,2026-03-12,680000,NGN,NGN/MT,Agricom,wholesale,National,1650,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026)

@@ -1,0 +1,114 @@
+{
+  "Cashew Nuts": {
+    "daily": 1839983,
+    "weekly": 1812981,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 1765181,
+      "prophet": 1882305,
+      "xgboost": 1797661
+    }
+  },
+  "Cocoa": {
+    "daily": 5652721,
+    "weekly": 5712563,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 6360804,
+      "prophet": 5596288,
+      "xgboost": 5709154
+    }
+  },
+  "Ginger": {
+    "daily": 9634756,
+    "weekly": 9647360,
+    "model": "ensemble",
+    "reference": 91011.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 9627137,
+      "prophet": 9862002,
+      "xgboost": 9407510
+    }
+  },
+  "Hibiscus": {
+    "daily": 2638382,
+    "weekly": 2579232,
+    "model": "ensemble",
+    "reference": 60210.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 2080209,
+      "prophet": 2717625,
+      "xgboost": 2559139
+    }
+  },
+  "Sesame": {
+    "daily": 1268964,
+    "weekly": 1265221,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 1259835,
+      "prophet": 1284701,
+      "xgboost": 1253227
+    }
+  },
+  "Sorghum": {
+    "daily": 276837,
+    "weekly": 268629,
+    "model": "ensemble",
+    "reference": 100790.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 282251,
+      "prophet": 280012,
+      "xgboost": 273663
+    }
+  },
+  "Soybeans": {
+    "daily": 684661,
+    "weekly": 679558,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 678333,
+      "prophet": 680504,
+      "xgboost": 688817
+    }
+  }
+}

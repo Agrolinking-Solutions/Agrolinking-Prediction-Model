@@ -1,0 +1,354 @@
+{
+  "Beans (red)": {
+    "daily": 969900,
+    "weekly": 969900,
+    "biweekly": 969900,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 929466,
+      "prophet": 969900,
+      "xgboost": 969900
+    },
+    "monthly": {
+      "point": 1196310,
+      "lower": 1017468,
+      "upper": 1375756
+    },
+    "q3month": {
+      "point": 1122891,
+      "lower": 947684,
+      "upper": 1323185
+    },
+    "q6month": {
+      "point": 1017950,
+      "lower": 832243,
+      "upper": 1202563
+    }
+  },
+  "Beans (white)": {
+    "daily": 862134,
+    "weekly": 862134,
+    "biweekly": 862134,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 818654,
+      "prophet": 862134,
+      "xgboost": 862134
+    },
+    "monthly": {
+      "point": 904977,
+      "lower": 795838,
+      "upper": 1009030
+    },
+    "q3month": {
+      "point": 883213,
+      "lower": 770924,
+      "upper": 990081
+    },
+    "q6month": {
+      "point": 826052,
+      "lower": 714899,
+      "upper": 924947
+    }
+  },
+  "Cashew Nuts": {
+    "daily": 1838469,
+    "weekly": 1804144,
+    "biweekly": 1659812,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 1793690,
+      "prophet": 1875806,
+      "xgboost": 1801132
+    },
+    "monthly": {
+      "point": 1171422,
+      "lower": 1131740,
+      "upper": 1209066
+    },
+    "q3month": {
+      "point": 2014874,
+      "lower": 1909335,
+      "upper": 2111423
+    },
+    "q6month": {
+      "point": 2124455,
+      "lower": 2041515,
+      "upper": 2200788
+    }
+  },
+  "Cocoa": {
+    "daily": 5665465,
+    "weekly": 5707001,
+    "biweekly": 5723990,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 6072364,
+      "prophet": 5648445,
+      "xgboost": 5682486
+    },
+    "monthly": {
+      "point": 4353185,
+      "lower": 3982755,
+      "upper": 4709027
+    },
+    "q3month": {
+      "point": 3748894,
+      "lower": 3541801,
+      "upper": 3945843
+    },
+    "q6month": {
+      "point": 3753625,
+      "lower": 3546536,
+      "upper": 3953611
+    }
+  },
+  "Ginger": {
+    "daily": 9656814,
+    "weekly": 9695911,
+    "biweekly": 9633105,
+    "model": "ensemble",
+    "reference": 91011000.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 9619907,
+      "prophet": 9632763,
+      "xgboost": 9680865
+    },
+    "monthly": {
+      "point": 9918738,
+      "lower": 8430928,
+      "upper": 11406549
+    },
+    "q3month": {
+      "point": 10393098,
+      "lower": 8314479,
+      "upper": 12471718
+    },
+    "q6month": {
+      "point": 10670289,
+      "lower": 8002717,
+      "upper": 13337861
+    }
+  },
+  "Hibiscus": {
+    "daily": 2640684,
+    "weekly": 2585938,
+    "biweekly": 2379063,
+    "model": "ensemble",
+    "reference": 60210000.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 2264105,
+      "prophet": 2681908,
+      "xgboost": 2599460
+    },
+    "monthly": {
+      "point": 1633635,
+      "lower": 1526130,
+      "upper": 1741048
+    },
+    "q3month": {
+      "point": 2319224,
+      "lower": 2181169,
+      "upper": 2454974
+    },
+    "q6month": {
+      "point": 2202506,
+      "lower": 2063832,
+      "upper": 2340324
+    }
+  },
+  "Maize (white)": {
+    "daily": 217330,
+    "weekly": 217166,
+    "biweekly": 211895,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 217330,
+      "prophet": 217330,
+      "xgboost": 217330
+    },
+    "monthly": {
+      "point": 283261,
+      "lower": 267707,
+      "upper": 296564
+    },
+    "q3month": {
+      "point": 305860,
+      "lower": 291843,
+      "upper": 322236
+    },
+    "q6month": {
+      "point": 303203,
+      "lower": 287222,
+      "upper": 320432
+    }
+  },
+  "Maize (yellow)": {
+    "daily": 234222,
+    "weekly": 227400,
+    "biweekly": 227400,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 234222,
+      "prophet": 234222,
+      "xgboost": 234222
+    },
+    "monthly": {
+      "point": 303407,
+      "lower": 285292,
+      "upper": 321682
+    },
+    "q3month": {
+      "point": 313759,
+      "lower": 294238,
+      "upper": 332475
+    },
+    "q6month": {
+      "point": 338004,
+      "lower": 318137,
+      "upper": 359415
+    }
+  },
+  "Sesame": {
+    "daily": 1263539,
+    "weekly": 1257601,
+    "biweekly": 1186980,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 1260892,
+      "prophet": 1269306,
+      "xgboost": 1257772
+    },
+    "monthly": {
+      "point": 818365,
+      "lower": 808971,
+      "upper": 827493
+    },
+    "q3month": {
+      "point": 818692,
+      "lower": 808751,
+      "upper": 828827
+    },
+    "q6month": {
+      "point": 819725,
+      "lower": 809409,
+      "upper": 828571
+    }
+  },
+  "Sorghum": {
+    "daily": 279835,
+    "weekly": 281492,
+    "biweekly": 281280,
+    "model": "ensemble",
+    "reference": 100790000.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 283478,
+      "prophet": 279682,
+      "xgboost": 279989
+    },
+    "monthly": {
+      "point": 284264,
+      "lower": 279145,
+      "upper": 289158
+    },
+    "q3month": {
+      "point": 219678,
+      "lower": 213999,
+      "upper": 225022
+    },
+    "q6month": {
+      "point": 183391,
+      "lower": 180118,
+      "upper": 186420
+    }
+  },
+  "Soybeans": {
+    "daily": 669576,
+    "weekly": 671307,
+    "biweekly": 682488,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 673636,
+      "prophet": 672249,
+      "xgboost": 666903
+    },
+    "monthly": {
+      "point": 680667,
+      "lower": 586076,
+      "upper": 776247
+    },
+    "q3month": {
+      "point": 717139,
+      "lower": 573711,
+      "upper": 860567
+    },
+    "q6month": {
+      "point": 729530,
+      "lower": 547148,
+      "upper": 911913
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "Beans (red)": {
+    "daily": 1076581,
+    "weekly": 1108022,
+    "biweekly": 1196664,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [],
+    "all_models": {
+      "arima": 785426,
+      "prophet": 1145602,
+      "xgboost": 1007560
+    }
+  },
+  "Beans (white)": {
+    "daily": 984722,
+    "weekly": 1030134,
+    "biweekly": 1112545,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [],
+    "all_models": {
+      "arima": 687313,
+      "prophet": 1080642,
+      "xgboost": 888803
+    }
+  },
+  "Cashew Nuts": {
+    "daily": 1836864,
+    "weekly": 1830144,
+    "biweekly": 1683732,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 1769624,
+      "prophet": 1860739,
+      "xgboost": 1812988
+    }
+  },
+  "Cocoa": {
+    "daily": 5660389,
+    "weekly": 5682402,
+    "biweekly": 5987764,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 6353080,
+      "prophet": 5638148,
+      "xgboost": 5682630
+    }
+  },
+  "Ginger": {
+    "daily": 9549476,
+    "weekly": 9671885,
+    "biweekly": 8898134,
+    "model": "ensemble",
+    "reference": 91011.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 9597666,
+      "prophet": 9836597,
+      "xgboost": 9262355
+    }
+  },
+  "Hibiscus": {
+    "daily": 2663158,
+    "weekly": 2623788,
+    "biweekly": 2413885,
+    "model": "ensemble",
+    "reference": 60210.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 2090029,
+      "prophet": 2722425,
+      "xgboost": 2603892
+    }
+  },
+  "Sesame": {
+    "daily": 1264944,
+    "weekly": 1265658,
+    "biweekly": 1169484,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 1260248,
+      "prophet": 1276358,
+      "xgboost": 1253531
+    }
+  },
+  "Sorghum": {
+    "daily": 280503,
+    "weekly": 281310,
+    "biweekly": 260585,
+    "model": "ensemble",
+    "reference": 100790.0,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (ref outlier)",
+    "sources": [
+      "tridge(direct:3)"
+    ],
+    "all_models": {
+      "arima": 285694,
+      "prophet": 281037,
+      "xgboost": 279968
+    }
+  },
+  "Soybeans": {
+    "daily": 677217,
+    "weekly": 672679,
+    "biweekly": 692211,
+    "model": "ensemble",
+    "reference": null,
+    "error_pct": null,
+    "flag": "\ud83d\udd04 (no ref)",
+    "sources": [
+      "no_data"
+    ],
+    "all_models": {
+      "arima": 675556,
+      "prophet": 678625,
+      "xgboost": 675809
+    }
+  }
+}
