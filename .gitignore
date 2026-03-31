@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Data files — raw WFP and Agricom CSVs stay local
+agrolinking-forecast/data/raw/*.csv
+agrolinking-forecast/data/processed/*.csv
+
+# Forecast logs — these regenerate daily, no need to version
+agrolinking-forecast/outputs/forecast_logs/
+
+# WhatsApp messages — outputs, not source
+agrolinking-forecast/outputs/whatsapp_messages/
+
+# Models — large binary files, retrained daily
+agrolinking-forecast/models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
