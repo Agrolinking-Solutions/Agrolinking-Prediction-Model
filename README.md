@@ -1183,5 +1183,5 @@ The lower bound is also floored at the current daily price.
 
 ---
 
-*Maintained by John Olamide Fashola — Data Analyst & ML Engineer, Agrolinking Solutions*
+*Maintained by John Fashola — Data Analyst & ML Engineer, Agrolinking Solutions*
 *Last updated: April 2026*
