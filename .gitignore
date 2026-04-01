@@ -7,22 +7,27 @@ __pycache__/
 venv/
 .venv/
 
-# Data files — raw WFP and Agricom CSVs stay local
+# Raw source data — stays local (private pricing data)
 agrolinking-forecast/data/raw/*.csv
-agrolinking-forecast/data/processed/*.csv
 
-# Forecast logs — these regenerate daily, no need to version
-agrolinking-forecast/outputs/forecast_logs/
+# Processed master dataset — push this so cloud has chart data
+# agrolinking-forecast/data/processed/*.csv   ← intentionally NOT ignored
 
-# WhatsApp messages — outputs, not source
+# Raw model forecasts — too noisy, don't push
+agrolinking-forecast/outputs/forecast_logs/model_forecasts_*.json
+
+# Final forecasts — PUSH these so cloud dashboard has live data
+# agrolinking-forecast/outputs/forecast_logs/final_forecasts_*.json  ← NOT ignored
+
+# WhatsApp messages — outputs only, no need to version
 agrolinking-forecast/outputs/whatsapp_messages/
 
-# Models — large binary files, retrained daily
+# Model binaries
 agrolinking-forecast/models/
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 
 # Streamlit cache
-.streamlit/
+.streamlit/secrets.toml
