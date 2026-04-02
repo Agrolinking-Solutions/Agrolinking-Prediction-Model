@@ -1,5 +1,8 @@
 import subprocess, sys, os
 from datetime import datetime
+import subprocess
+from datetime import date as _date
+
 
 BASE_DIR    = os.path.expanduser("~/Agrolinking-Prediction-Model/agrolinking-forecast")
 SCRIPTS_DIR = os.path.join(BASE_DIR, "scripts")
@@ -83,3 +86,22 @@ if not failed:
             print(f.read())
     except FileNotFoundError:
         print(f"  Message file not found: {msg_path}")
+
+_today   = _date.today()
+_repo    = os.path.expanduser("~/Agrolinking-Prediction-Model")
+_fc      = f"agrolinking-forecast/outputs/forecast_logs/final_forecasts_{_today}.json"
+_csv     = "agrolinking-forecast/data/processed/agricom_master.csv"
+
+print("\n📤 Pushing forecast data to GitHub → Railway will auto-update...")
+result = subprocess.run([
+    "bash", "-c",
+    f'cd {_repo} && '
+    f'git add -f "{_fc}" "{_csv}" && '
+    f'git commit -m "data: forecast update {_today}" && '
+    f'git push'
+], capture_output=True, text=True)
+
+if result.returncode == 0:
+    print("✅ Pushed — Railway dashboard will update within 60 seconds")
+else:
+    print(f"⚠️  Push failed: {result.stderr.strip()}")
