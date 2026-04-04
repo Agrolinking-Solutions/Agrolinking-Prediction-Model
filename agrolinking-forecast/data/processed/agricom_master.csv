@@ -442,10 +442,10 @@ Cashew Nuts,2026-03-11,1800000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2
 Cashew Nuts,2026-03-12,1800000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026),historical
 Cashew Nuts,2026-03-14,1809429.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-14,0.9,False,"Forecast by ensemble model | error=None% | weekly_fc=₦1,822,024",forecast
 Cashew Nuts,2026-03-16,1812479.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-16,0.9,False,"Forecast by ensemble model | daily_change=+0.7% | weekly_fc=₦1,619,794",forecast
-Cashew Nuts,2026-03-17,1806629.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=-0.3% | weekly_fc=₦1,619,794",forecast
 Cashew Nuts,2026-03-17,1800000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-18,0.95,True,Historical data from Agricom Instagram post,historical
-Cashew Nuts,2026-03-18,1839983.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦1,812,981",forecast
+Cashew Nuts,2026-03-17,1806629.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=-0.3% | weekly_fc=₦1,619,794",forecast
 Cashew Nuts,2026-03-18,1800000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-19,0.95,True,Historical data from Agricom Instagram post,historical
+Cashew Nuts,2026-03-18,1839983.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦1,812,981",forecast
 Cashew Nuts,2026-03-19,1842153.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-19,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦1,812,981",forecast
 Cashew Nuts,2026-03-20,1840637.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-20,0.9,False,"model=ensemble | daily_change=stable | weekly=₦1,814,498 | biweekly=₦1,669,338",forecast
 Cashew Nuts,2026-03-21,1836864.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦1,830,144 | biweekly=₦1,683,732",forecast
@@ -628,10 +628,10 @@ Cocoa,2026-03-11,5700000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03
 Cocoa,2026-03-12,5700000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026),historical
 Cocoa,2026-03-14,5692721.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-14,0.9,False,"Forecast by ensemble model | error=None% | weekly_fc=₦5,693,878",forecast
 Cocoa,2026-03-16,5703385.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-16,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦5,979,236",forecast
-Cocoa,2026-03-17,5722239.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=+0.3% | weekly_fc=₦5,979,236",forecast
 Cocoa,2026-03-17,5700000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-18,0.95,True,Historical data from Agricom Instagram post,historical
-Cocoa,2026-03-18,5652721.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=+2.6% | weekly_fc=₦5,712,563",forecast
+Cocoa,2026-03-17,5722239.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=+0.3% | weekly_fc=₦5,979,236",forecast
 Cocoa,2026-03-18,5700000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-19,0.95,True,Historical data from Agricom Instagram post,historical
+Cocoa,2026-03-18,5652721.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=+2.6% | weekly_fc=₦5,712,563",forecast
 Cocoa,2026-03-19,5520353.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-19,0.9,False,"Forecast by ensemble model | daily_change=-2.3% | weekly_fc=₦5,725,185",forecast
 Cocoa,2026-03-20,5563935.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-20,0.9,False,"model=ensemble | daily_change=stable | weekly=₦5,725,185 | biweekly=₦6,183,200",forecast
 Cocoa,2026-03-21,5660389.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦5,682,402 | biweekly=₦5,987,764",forecast
@@ -810,10 +810,10 @@ Ginger,2026-03-11,9900000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-0
 Ginger,2026-03-12,9900000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026),historical
 Ginger,2026-03-14,9659280.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-14,0.9,False,"Forecast by ensemble model | error=None% | weekly_fc=₦9,608,956",forecast
 Ginger,2026-03-16,9668405.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-16,0.9,False,"Forecast by ensemble model | daily_change=-2.3% | weekly_fc=₦9,539,850",forecast
-Ginger,2026-03-17,9669234.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦9,539,850",forecast
 Ginger,2026-03-17,9900000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-18,0.95,True,Historical data from Agricom Instagram post,historical
-Ginger,2026-03-18,9634756.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦9,647,360",forecast
+Ginger,2026-03-17,9669234.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦9,539,850",forecast
 Ginger,2026-03-18,9900000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-19,0.95,True,Historical data from Agricom Instagram post,historical
+Ginger,2026-03-18,9634756.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦9,647,360",forecast
 Ginger,2026-03-19,9632445.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-19,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦9,647,360",forecast
 Ginger,2026-03-20,9534894.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-20,0.9,False,"model=ensemble | daily_change=stable | weekly=₦9,677,791 | biweekly=₦8,946,009",forecast
 Ginger,2026-03-21,9549476.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦9,671,885 | biweekly=₦8,898,134",forecast
@@ -988,10 +988,10 @@ Hibiscus,2026-03-11,2550000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026
 Hibiscus,2026-03-12,2550000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026),historical
 Hibiscus,2026-03-14,2328629.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-14,0.9,False,"Forecast by ensemble model | error=None% | weekly_fc=₦2,337,240",forecast
 Hibiscus,2026-03-16,2529027.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-16,0.9,False,"Forecast by ensemble model | daily_change=-0.8% | weekly_fc=₦3,488,603",forecast
-Hibiscus,2026-03-17,2645230.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=+4.6% | weekly_fc=₦3,475,162",forecast
 Hibiscus,2026-03-17,2550000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-18,0.95,True,Historical data from Agricom Instagram post,historical
-Hibiscus,2026-03-18,2638382.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦2,579,232",forecast
+Hibiscus,2026-03-17,2645230.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=+4.6% | weekly_fc=₦3,475,162",forecast
 Hibiscus,2026-03-18,2550000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-19,0.95,True,Historical data from Agricom Instagram post,historical
+Hibiscus,2026-03-18,2638382.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦2,579,232",forecast
 Hibiscus,2026-03-19,2647006.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-19,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦2,576,677",forecast
 Hibiscus,2026-03-20,2676170.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-20,0.9,False,"model=ensemble | daily_change=stable | weekly=₦2,619,329 | biweekly=₦2,409,783",forecast
 Hibiscus,2026-03-21,2663158.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦2,623,788 | biweekly=₦2,413,885",forecast
@@ -1530,10 +1530,10 @@ Sesame,2026-03-11,1280000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-0
 Sesame,2026-03-12,1280000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026),historical
 Sesame,2026-03-14,1292871.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-14,0.9,False,"Forecast by ensemble model | error=None% | weekly_fc=₦1,280,114",forecast
 Sesame,2026-03-16,1273658.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-16,0.9,False,"Forecast by ensemble model | daily_change=-0.5% | weekly_fc=₦1,032,990",forecast
-Sesame,2026-03-17,1256014.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=-1.4% | weekly_fc=₦1,032,990",forecast
 Sesame,2026-03-17,1280000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-18,0.95,True,Historical data from Agricom Instagram post,historical
-Sesame,2026-03-18,1268964.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦1,265,221",forecast
+Sesame,2026-03-17,1256014.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=-1.4% | weekly_fc=₦1,032,990",forecast
 Sesame,2026-03-18,1280000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-19,0.95,True,Historical data from Agricom Instagram post,historical
+Sesame,2026-03-18,1268964.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦1,265,221",forecast
 Sesame,2026-03-19,1270772.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-19,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦1,268,513",forecast
 Sesame,2026-03-20,1267587.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-20,0.9,False,"model=ensemble | daily_change=stable | weekly=₦1,265,627 | biweekly=₦1,166,747",forecast
 Sesame,2026-03-21,1264944.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦1,265,658 | biweekly=₦1,169,484",forecast
@@ -1678,10 +1678,10 @@ Sorghum,2026-03-11,280000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-0
 Sorghum,2026-03-12,280000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026),historical
 Sorghum,2026-03-14,290779.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-14,0.9,False,"Forecast by ensemble model | error=None% | weekly_fc=₦282,354",forecast
 Sorghum,2026-03-16,269643.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-16,0.9,False,"Forecast by ensemble model | daily_change=-3.7% | weekly_fc=₦213,899",forecast
-Sorghum,2026-03-17,249010.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=-7.7% | weekly_fc=₦209,756",forecast
 Sorghum,2026-03-17,280000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-18,0.95,True,Historical data from Agricom Instagram post,historical
-Sorghum,2026-03-18,276837.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=+2.9% | weekly_fc=₦268,629",forecast
+Sorghum,2026-03-17,249010.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=-7.7% | weekly_fc=₦209,756",forecast
 Sorghum,2026-03-18,280000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-19,0.95,True,Historical data from Agricom Instagram post,historical
+Sorghum,2026-03-18,276837.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=+2.9% | weekly_fc=₦268,629",forecast
 Sorghum,2026-03-19,283048.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-19,0.9,False,"Forecast by ensemble model | daily_change=+2.2% | weekly_fc=₦278,108",forecast
 Sorghum,2026-03-20,281272.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-20,0.9,False,"model=ensemble | daily_change=stable | weekly=₦281,310 | biweekly=₦260,585",forecast
 Sorghum,2026-03-21,280503.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦281,310 | biweekly=₦260,585",forecast
@@ -1864,10 +1864,10 @@ Soybeans,2026-03-11,680000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-
 Soybeans,2026-03-12,680000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-13,0.95,True,Historical data from Instagram posts (March 2026),historical
 Soybeans,2026-03-14,672458.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-14,0.9,False,"Forecast by ensemble model | error=None% | weekly_fc=₦674,532",forecast
 Soybeans,2026-03-16,684830.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-16,0.9,False,"Forecast by ensemble model | daily_change=+0.7% | weekly_fc=₦867,165",forecast
-Soybeans,2026-03-17,704997.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=+2.9% | weekly_fc=₦872,185",forecast
 Soybeans,2026-03-17,680000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-18,0.95,True,Historical data from Agricom Instagram post,historical
-Soybeans,2026-03-18,684661.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦679,558",forecast
+Soybeans,2026-03-17,704997.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-17,0.9,False,"Forecast by ensemble model | daily_change=+2.9% | weekly_fc=₦872,185",forecast
 Soybeans,2026-03-18,680000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-19,0.95,True,Historical data from Agricom Instagram post,historical
+Soybeans,2026-03-18,684661.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-18,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦679,558",forecast
 Soybeans,2026-03-19,677260.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-19,0.9,False,"Forecast by ensemble model | daily_change=0.0% | weekly_fc=₦673,970",forecast
 Soybeans,2026-03-20,676558.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-20,0.9,False,"model=ensemble | daily_change=stable | weekly=₦672,679 | biweekly=₦692,211",forecast
 Soybeans,2026-03-21,677217.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦672,679 | biweekly=₦692,211",forecast
