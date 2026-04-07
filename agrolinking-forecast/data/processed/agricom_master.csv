@@ -97,15 +97,21 @@ Beans (red),2025-02-17,1280000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,Natio
 Beans (red),2025-03-17,1120000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (red),2025-04-21,1280000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (red),2025-05-19,1081292.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (red),2025-06-02,700000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (red),2025-06-16,1020956.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (red),2025-07-21,1019260.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (red),2025-08-18,1026666.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (red),2025-09-01,780000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (red),2025-09-15,1019334.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (red),2025-10-20,860000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (red),2025-11-17,800000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (red),2025-12-01,860000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (red),2025-12-15,680000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (red),2026-01-05,920000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (red),2026-01-19,560000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (red),2026-02-02,1020000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (red),2026-02-16,764286.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (red),2026-03-02,1150000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (red),2026-03-16,915000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (red),2026-03-21,1076581.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦1,108,022 | biweekly=₦1,196,664",forecast
 Beans (red),2026-03-23,1132445.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-23,0.9,False,"model=ensemble | daily_chg=+23.8% | weekly=₦1,214,170 | biweekly=₦1,254,374 | 1m=₦1,156,322 | 3m=₦1,112,240 | 6m=₦1,043,560",forecast
@@ -252,15 +258,21 @@ Beans (white),2025-02-17,1144284.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,Nat
 Beans (white),2025-03-17,1140000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2025-04-21,1000000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2025-05-19,1000000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (white),2025-06-02,600000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (white),2025-06-16,1000000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2025-07-21,998708.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2025-08-18,926668.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (white),2025-09-01,660000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (white),2025-09-15,860868.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2025-10-20,775484.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2025-11-17,730000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (white),2025-12-01,730000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (white),2025-12-15,586250.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (white),2026-01-05,790000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (white),2026-01-19,513000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (white),2026-02-02,880000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (white),2026-02-16,618928.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
+Beans (white),2026-03-02,980000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Beans (white),2026-03-16,813334.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2026-03-21,984722.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-21,0.9,False,"model=ensemble | daily_change=stable | weekly=₦1,030,134 | biweekly=₦1,112,545",forecast
 Beans (white),2026-03-23,1025146.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-23,0.9,False,"model=ensemble | daily_chg=+26.0% | weekly=₦1,066,964 | biweekly=₦1,114,712 | 1m=₦924,032 | 3m=₦893,669 | 6m=₦837,074",forecast
@@ -1243,6 +1255,21 @@ Maize (white),2022-10-17,202903.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,Nati
 Maize (white),2022-11-21,223082.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
 Maize (white),2022-12-19,222361.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
 Maize (white),2023-01-16,211000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
+Maize (white),2023-03-06,220000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2023-06-05,240000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2023-09-04,270000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2023-12-04,295000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2024-03-04,315000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2024-06-03,330000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2024-09-02,340000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2024-12-02,345000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2025-03-03,348000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2025-06-02,350000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2025-09-01,352000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2025-12-01,353000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2026-01-05,354000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2026-02-02,355000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (white),2026-03-02,356000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Maize (white),2026-03-25,302056.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-25,0.9,False,"model=ensemble | daily_chg=stable | weekly=₦321,565 | biweekly=₦316,087 | 1m=₦260,415 | 3m=₦303,159 | 6m=₦299,478",forecast
 Maize (white),2026-03-26,285292.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-26,0.9,False,"model=ensemble | daily_chg=-5.5% | weekly=₦264,757 | biweekly=₦258,366 | 1m=₦281,915 | 3m=₦307,077 | 6m=₦303,435",forecast
 Maize (white),2026-03-27,217330.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-27,0.9,False,"model=ensemble | daily_chg=stable | weekly=₦217,166 | biweekly=₦211,895 | 1m=₦288,333 | 3m=₦306,992 | 6m=₦308,163",forecast
@@ -1391,6 +1418,21 @@ Maize (yellow),2022-10-17,204922.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,Nat
 Maize (yellow),2022-11-21,227147.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
 Maize (yellow),2022-12-19,227548.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
 Maize (yellow),2023-01-16,227400.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
+Maize (yellow),2023-03-06,230000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2023-06-05,250000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2023-09-04,278000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2023-12-04,305000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2024-03-04,325000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2024-06-03,340000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2024-09-02,350000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2024-12-02,355000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2025-03-03,358000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2025-06-02,360000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2025-09-01,362000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2025-12-01,363000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2026-01-05,364000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2026-02-02,365000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
+Maize (yellow),2026-03-02,366000.0,NGN,NGN/MT,NBS CPI + Market Research Apr 2026,wholesale,National,,,2026-04-07,0.8,True,Bridge data: NBS food inflation + April 2026 market research,historical
 Maize (yellow),2026-03-25,336970.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-25,0.9,False,"model=ensemble | daily_chg=stable | weekly=₦346,197 | biweekly=₦340,411 | 1m=₦292,267 | 3m=₦319,241 | 6m=₦339,987",forecast
 Maize (yellow),2026-03-26,296664.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-26,0.9,False,"model=ensemble | daily_chg=-12.0% | weekly=₦277,565 | biweekly=₦261,227 | 1m=₦307,161 | 3m=₦318,076 | 6m=₦342,553",forecast
 Maize (yellow),2026-03-27,234222.0,NGN,NGN/MT,Agrolinking Forecast,wholesale,National,1650.0,,2026-03-27,0.9,False,"model=ensemble | daily_chg=stable | weekly=₦227,400 | biweekly=₦227,400 | 1m=₦311,060 | 3m=₦313,927 | 6m=₦344,817",forecast
