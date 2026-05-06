@@ -147,6 +147,7 @@ Beans (red),2026-05-01,1369859.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,Nat
 Beans (red),2026-05-02,1368493.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Beans (red),2026-05-04,1363669.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Beans (red),2026-05-05,1360812.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Beans (red),2026-05-06,1380412.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Beans (white),2016-01-18,1680000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2016-06-20,220800.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
 Beans (white),2016-07-18,250000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-21,0.9,True,WFP VAM data — converted from NGN/2.5KG to NGN/MT (×400),historical
@@ -294,6 +295,7 @@ Beans (white),2026-05-01,1143728.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,N
 Beans (white),2026-05-02,1141530.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Beans (white),2026-05-04,1196159.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Beans (white),2026-05-05,1134122.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Beans (white),2026-05-06,1185943.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Cashew Nuts,2025-01-08,2100000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Cashew Nuts,2025-01-09,2100000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Cashew Nuts,2025-01-10,2100000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
@@ -472,6 +474,7 @@ Cashew Nuts,2026-05-01,1965621.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,Nat
 Cashew Nuts,2026-05-02,1840646.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Cashew Nuts,2026-05-04,1965621.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Cashew Nuts,2026-05-05,1849846.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Cashew Nuts,2026-05-06,1965621.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Cocoa,2025-01-08,13200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Cocoa,2025-01-09,13200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Cocoa,2025-01-10,13200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
@@ -650,6 +653,7 @@ Cocoa,2026-05-01,5953083.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,
 Cocoa,2026-05-02,5606475.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Cocoa,2026-05-04,5878266.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Cocoa,2026-05-05,5606475.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Cocoa,2026-05-06,5937979.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Ginger,2025-01-08,13200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Ginger,2025-01-09,13200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Ginger,2025-01-10,13200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
@@ -824,6 +828,7 @@ Ginger,2026-05-01,9868703.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National
 Ginger,2026-05-02,9809433.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Ginger,2026-05-04,9868703.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Ginger,2026-05-05,9829701.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Ginger,2026-05-06,9868703.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Hibiscus,2025-01-08,1600000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Hibiscus,2025-01-09,1600000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Hibiscus,2025-01-10,1600000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
@@ -994,6 +999,7 @@ Hibiscus,2026-05-01,2537723.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,Nation
 Hibiscus,2026-05-02,2359511.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Hibiscus,2026-05-04,2441799.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Hibiscus,2026-05-05,2359511.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Hibiscus,2026-05-06,2496097.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Maize (white),2003-09-15,25000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
 Maize (white),2003-10-20,25000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
 Maize (white),2003-12-15,25000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
@@ -1232,6 +1238,7 @@ Maize (white),2026-05-01,369296.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,Na
 Maize (white),2026-05-02,350000.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Maize (white),2026-05-04,360814.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Maize (white),2026-05-05,350000.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Maize (white),2026-05-06,363563.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Maize (yellow),2014-05-19,70000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
 Maize (yellow),2014-07-21,62000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
 Maize (yellow),2014-08-18,60000.0,NGN,NGN/MT,WFP Nigeria Food Prices,retail,National,,,2026-03-25,0.88,True,WFP VAM data — converted to NGN/MT,historical
@@ -1372,6 +1379,7 @@ Maize (yellow),2026-05-01,366827.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,N
 Maize (yellow),2026-05-02,360000.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Maize (yellow),2026-05-04,363009.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Maize (yellow),2026-05-05,360000.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Maize (yellow),2026-05-06,359023.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Sesame,2025-06-11,2200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025),historical
 Sesame,2025-06-13,2200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025),historical
 Sesame,2025-06-16,2200000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025),historical
@@ -1512,6 +1520,7 @@ Sesame,2026-05-01,1221511.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National
 Sesame,2026-05-02,1293598.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Sesame,2026-05-04,1221511.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Sesame,2026-05-05,1234742.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Sesame,2026-05-06,1221511.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Sorghum,2025-06-11,520000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025),historical
 Sorghum,2025-06-13,520000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025),historical
 Sorghum,2025-06-16,520000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-06,0.95,True,Historical data from Instagram posts (June-July 2025),historical
@@ -1652,6 +1661,7 @@ Sorghum,2026-05-01,314266.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National
 Sorghum,2026-05-02,312360.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Sorghum,2026-05-04,308401.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Sorghum,2026-05-05,306392.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Sorghum,2026-05-06,304392.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
 Soybeans,2025-01-08,1050000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Soybeans,2025-01-09,1050000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
 Soybeans,2025-01-10,1050000.0,NGN,NGN/MT,Agricom,wholesale,National,1650.0,,2026-03-10,0.95,True,Historical data from Instagram posts (Jan-Feb 2025),historical
@@ -1830,3 +1840,4 @@ Soybeans,2026-05-01,718949.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,Nationa
 Soybeans,2026-05-02,718773.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-02,0.85,True,AI daily forecast 2026-05-02,forecast
 Soybeans,2026-05-04,719293.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-04,0.85,True,AI daily forecast 2026-05-04,forecast
 Soybeans,2026-05-05,720013.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-05,0.85,True,AI daily forecast 2026-05-05,forecast
+Soybeans,2026-05-06,721040.0,NGN,NGN/MT,Agrolinking AI Pipeline,forecast,National,,,2026-05-06,0.85,True,AI daily forecast 2026-05-06,forecast
