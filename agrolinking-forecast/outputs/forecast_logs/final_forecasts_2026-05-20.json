@@ -6,17 +6,17 @@
     "monthly": {
       "point": 1490593.0,
       "lower": 1380000.0,
-      "upper": 2414114.0
+      "upper": 2370946.0
     },
     "q3month": {
       "point": 1744896.0,
       "lower": 1380000.0,
-      "upper": 3196144.0
+      "upper": 3128308.0
     },
     "q6month": {
       "point": 2008480.0,
       "lower": 1380000.0,
-      "upper": 3987454.0
+      "upper": 3894951.0
     },
     "model": "prophet+xgboost",
     "reference": null,
@@ -37,17 +37,17 @@
     "monthly": {
       "point": 1274565.0,
       "lower": 1180000.0,
-      "upper": 2139468.0
+      "upper": 2116406.0
     },
     "q3month": {
       "point": 1492013.0,
       "lower": 1180000.0,
-      "upper": 2851146.0
+      "upper": 2814905.0
     },
     "q6month": {
       "point": 1717396.0,
       "lower": 1180000.0,
-      "upper": 3570759.0
+      "upper": 3521340.0
     },
     "model": "prophet+xgboost+stale_drift",
     "reference": null,
@@ -68,17 +68,17 @@
     "monthly": {
       "point": 2096685.0,
       "lower": 1965621.0,
-      "upper": 2498929.0
+      "upper": 2524968.0
     },
     "q3month": {
       "point": 2390382.0,
       "lower": 1965621.0,
-      "upper": 3022481.0
+      "upper": 3063399.0
     },
     "q6month": {
       "point": 2639225.0,
       "lower": 1965621.0,
-      "upper": 3501178.0
+      "upper": 3556975.0
     },
     "model": "prophet+xgboost",
     "reference": null,
@@ -99,17 +99,17 @@
     "monthly": {
       "point": 6349374.0,
       "lower": 5952475.0,
-      "upper": 8085893.0
+      "upper": 8141457.0
     },
     "q3month": {
       "point": 7238776.0,
       "lower": 5952475.0,
-      "upper": 9967592.0
+      "upper": 10054906.0
     },
     "q6month": {
       "point": 7992344.0,
       "lower": 5952475.0,
-      "upper": 11713458.0
+      "upper": 11832523.0
     },
     "model": "prophet+xgboost+stale_drift",
     "reference": null,
@@ -130,17 +130,17 @@
     "monthly": {
       "point": 9930876.0,
       "lower": 9868703.0,
-      "upper": 10761438.0
+      "upper": 10732400.0
     },
     "q3month": {
       "point": 10042914.0,
       "lower": 9868703.0,
-      "upper": 11348082.0
+      "upper": 11302452.0
     },
     "q6month": {
       "point": 10192797.0,
       "lower": 9868703.0,
-      "upper": 11972572.0
+      "upper": 11910348.0
     },
     "model": "prophet+xgboost",
     "reference": null,
@@ -155,34 +155,34 @@
     "inflation_adjusted": true
   },
   "Hibiscus": {
-    "daily": 2459698.0,
-    "weekly": 2309654.0,
-    "biweekly": 2259797.0,
+    "daily": 2375737.0,
+    "weekly": 2375737.0,
+    "biweekly": 2375737.0,
     "monthly": {
-      "point": 2374376.0,
-      "lower": 2359511.0,
-      "upper": 2664695.0
+      "point": 2390704.0,
+      "lower": 2375737.0,
+      "upper": 2675067.0
     },
     "q3month": {
-      "point": 2401163.0,
-      "lower": 2359511.0,
-      "upper": 2857379.0
+      "point": 2417676.0,
+      "lower": 2375737.0,
+      "upper": 2864532.0
     },
     "q6month": {
-      "point": 2436999.0,
-      "lower": 2359511.0,
-      "upper": 3059111.0
+      "point": 2453758.0,
+      "lower": 2375737.0,
+      "upper": 3063107.0
     },
-    "model": "prophet+xgboost+stale_drift",
-    "reference": null,
-    "error_pct": null,
-    "flag": "~",
+    "model": "xgboost",
+    "reference": 2970000.0,
+    "error_pct": 20.01,
+    "flag": "!",
     "all_models": {
       "arima": 2343285.714285714,
       "prophet": 2343285.714285714,
       "xgboost": 2375737.0
     },
-    "confidence": "Medium",
+    "confidence": "Low",
     "inflation_adjusted": true
   },
   "Maize (white)": {
@@ -192,17 +192,17 @@
     "monthly": {
       "point": 356441.0,
       "lower": 349795.0,
-      "upper": 432706.0
+      "upper": 438321.0
     },
     "q3month": {
       "point": 370115.0,
       "lower": 349795.0,
-      "upper": 489960.0
+      "upper": 498783.0
     },
     "q6month": {
       "point": 391614.0,
       "lower": 349795.0,
-      "upper": 555040.0
+      "upper": 567071.0
     },
     "model": "anchor+drift",
     "reference": null,
@@ -223,17 +223,17 @@
     "monthly": {
       "point": 366631.0,
       "lower": 359795.0,
-      "upper": 457282.0
+      "upper": 461948.0
     },
     "q3month": {
       "point": 380695.0,
       "lower": 359795.0,
-      "upper": 523147.0
+      "upper": 530479.0
     },
     "q6month": {
       "point": 402810.0,
       "lower": 359795.0,
-      "upper": 597063.0
+      "upper": 607061.0
     },
     "model": "anchor+drift",
     "reference": null,
@@ -285,17 +285,17 @@
     "monthly": {
       "point": 309582.0,
       "lower": 303810.0,
-      "upper": 333759.0
+      "upper": 332807.0
     },
     "q3month": {
       "point": 321458.0,
       "lower": 303810.0,
-      "upper": 359451.0
+      "upper": 357954.0
     },
     "q6month": {
       "point": 340131.0,
       "lower": 303810.0,
-      "upper": 391940.0
+      "upper": 389899.0
     },
     "model": "prophet+xgboost+stale_drift",
     "reference": null,
@@ -315,18 +315,18 @@
     "biweekly": 739299.0,
     "monthly": {
       "point": 795277.0,
-      "lower": 749980.0,
-      "upper": 840573.0
+      "lower": 752810.0,
+      "upper": 837744.0
     },
     "q3month": {
       "point": 930955.0,
-      "lower": 859775.0,
-      "upper": 1002136.0
+      "lower": 864221.0,
+      "upper": 997689.0
     },
     "q6month": {
       "point": 1071585.0,
-      "lower": 974521.0,
-      "upper": 1168649.0
+      "lower": 980584.0,
+      "upper": 1162587.0
     },
     "model": "prophet+xgboost+stale_drift",
     "reference": null,
